@@ -17,4 +17,4 @@
   16 mv /tmp/evA /opt/eve
   17 mv /opt/eve /home/humans/
   18 tree /home/humans/
-  19 history >history.txt
+  19 history >history.
