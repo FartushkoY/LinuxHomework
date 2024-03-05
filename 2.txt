@@ -1,0 +1,3 @@
+Filesystem           1K-blocks      Used Available Use% Mounted on
+C:/Program Files/Git 499446780 102152524 397294256  21% /
+D:                   976744444 160635264 816109180  17% /d
