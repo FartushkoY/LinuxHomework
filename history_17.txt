@@ -1,0 +1,27 @@
+   0 date
+   1 date +'%D'
+   2 date +'%D' > file.txt
+   3 ls -l
+   4 df -h
+   5 df -h | head -2 | tail -1
+   6 df -h | grep 47
+   7 df -h | grep -w /
+   8 df -h | grep -w / >> file.txt
+   9 cat f
+  10 cat file.txt
+  11 history
+  12 history | tail -5 >> file.txt
+  13 cat /proc/cpuinfo
+  14 cat /proc/cpuinfo | grep vendor
+  15 cat /proc/cpuinfo | grep vendor >> f
+  16 cat /proc/cpuinfo | grep vendor >> file.txt 
+  17 vi file.txt
+  18 ps
+  19 ps | vc
+  20 ps | wc
+  21 ps | wc -l
+  22 ps | tail +2 | wc -l3
+  23 ps | tail +2 | wc -l
+  24 ps | tail +2 | wc -l >> file.txt 
+  25 cat file.txt 
+  26 history >> history_17.txt
